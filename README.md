@@ -51,6 +51,8 @@ Su objetivo es facilitar la búsqueda de productos, la realización de pedidos y
 - Actualización del estado de los pedidos.
 - Organización de pedidos pendientes.
 - Chat con conversaciones independientes por cliente.
+- Correo del admin: maicsqr@gmail.com
+- Contraseña: Andyssj123.
 
 ## Estructuras de datos implementadas
 
